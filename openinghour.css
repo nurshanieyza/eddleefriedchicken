@@ -1,0 +1,40 @@
+/* styles.css */
+
+h2 {
+    font-size: 3rem;
+    font-weight: 1000;
+}
+
+main {
+    padding: 10em;
+    max-width: 800px;
+    margin: 0 50px;
+    background-color: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.opening-hours h2 {
+    text-align: center;
+    color: #333;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 1em;
+    font-size: 19px;
+}
+
+table, th, td {
+    border: 1px solid #232020;
+}
+
+th, td {
+    padding: 1em;
+    text-align: left;
+}
+
+th {
+    background-color: #db6060;
+}
+

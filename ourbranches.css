@@ -1,0 +1,27 @@
+
+/* Style for branch boxes */
+
+h2 {
+    font-size: 22px;
+}
+
+.branch-box {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-bottom: 20px;
+    background-color: #bc6565;
+    border-radius: 8px;
+  }
+  
+  .branch-box h3 {
+    font-size: 19px;
+    margin-bottom: 10px;
+    margin-left: 50px;
+  }
+  
+  .branch-box p {
+    font-size: 15px;
+    line-height: 1.5;
+    margin-left: 50px;
+
+  }
