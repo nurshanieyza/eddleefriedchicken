@@ -1,0 +1,41 @@
+
+
+.call-now-container {
+    text-align: center;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    font-family: 'Roboto', sans-serif;
+    background-color: #f8f9fa;
+    margin: 0;
+
+}
+
+.call-now-container h1 {
+    color: #333;
+    margin-bottom: 30px;
+}
+
+.call-now-container p {
+    color: #666;
+    margin-bottom: 40px;
+}
+.phone-number{
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+.call-now-button {
+    background-color: #ff4500;
+    color: #fff;
+    border: none;
+    padding: 20px 30px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.call-now-button:hover {
+    background-color: #e03e00;
+}
